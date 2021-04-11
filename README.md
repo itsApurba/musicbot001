@@ -32,6 +32,4 @@ Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to 
 
 ### ### Credits
 
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Infinity BOTs](https://Hoso_musix)
+- [Hosopubg](https:t.me//Hoso_musix)
