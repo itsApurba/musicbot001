@@ -1,7 +1,7 @@
 <h2 align="centre">Music Play Bot 🎵</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/e1d2e60a756b2cda8a058.jpg">
+  <img src="https://telegra.ph/file/45c0a9db6e696abf1ed49.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -30,10 +30,8 @@
 
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
-### Latest Repo [Here](https://github.com/Infinity-Bots/GroupMusicPlayerBot)
-
-### Credits
+### ### Credits
 
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Infinity BOTs](https://t.me/Infinity_BOTs)
+- [Infinity BOTs](https://Hoso_musix)
