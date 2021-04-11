@@ -32,4 +32,4 @@ Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to 
 
 ### ### Credits
 
-- [Hosopubg](https:t.me//Hoso_musix)
+- [Hosopubg](https:t.me/Hoso_musix)
